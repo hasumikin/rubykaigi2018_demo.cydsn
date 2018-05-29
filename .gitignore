@@ -1,0 +1,29 @@
+
+# Created by https://www.gitignore.io/api/psoccreator
+
+### PSoCCreator ###
+# Project Settings
+*.cywrk.*
+*.cyprj.*
+
+# Generated Assets and Resources
+Backup/
+Debug/
+Release/
+Export/
+codegentemp/
+Generated_Source/
+*_datasheet.pdf
+*_timing.html
+*.cycdx
+*.cyfit
+*.rpt
+*.svd
+CortexM3/
+*.log
+
+# End of https://www.gitignore.io/api/psoccreator
+
+# added by mrubyc-utils
+.mrubyc/
+

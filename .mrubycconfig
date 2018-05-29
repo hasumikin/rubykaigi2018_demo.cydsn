@@ -1,0 +1,8 @@
+---
+target: psoc5lp
+mrubyc_repo_dir: .mrubyc
+mrubyc_src_dir: mrubyc_src
+mruby_lib_dir: mrblib
+c_lib_dir: src
+prefix: job
+...
