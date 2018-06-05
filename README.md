@@ -2,7 +2,7 @@
 * RubyKaigi 2018
   * [http://rubykaigi.org/2018](http://rubykaigi.org/2018)
 * Presentation slide
-  * [WIP]
+  * [https://slide.rabbit-shocker.org/authors/hasumikin/rubykaigi2018/](https://slide.rabbit-shocker.org/authors/hasumikin/rubykaigi2018/)
 
 ## Dependencies
 * Microcontroller
